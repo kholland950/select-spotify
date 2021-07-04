@@ -25,4 +25,4 @@ Please file an issue [here](https://github.com/kholland950/select-spotify/issues
 
 ## License
 
-MIT © [Abhijith Vijayan](https://abhijithvijayan.in)
+MIT © [Kevin Holland](https://kevinholland.me)

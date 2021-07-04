@@ -23,13 +23,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   console.emoji('🦄', response);
 
   document.getElementById('github__button').addEventListener('click', () => {
-    return openWebPage(
-      'https://github.com/abhijithvijayan/web-extension-starter'
-    );
-  });
-
-  document.getElementById('donate__button').addEventListener('click', () => {
-    return openWebPage('https://www.buymeacoffee.com/abhijithvijayan');
+    return openWebPage('https://github.com/kholland950/select-spotify');
   });
 
   document.getElementById('options__button').addEventListener('click', () => {

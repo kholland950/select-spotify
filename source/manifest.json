@@ -8,7 +8,7 @@
   },
 
   "description": "Allows song/album/playlist titles to be selected on Spotify web.",
-  "homepage_url": "https://github.com/abhijithvijayan/web-extension-starter",
+  "homepage_url": "https://github.com/kholland950/select-spotify",
   "short_name": "select-spotify",
 
   "permissions": [
@@ -22,9 +22,9 @@
   "__prod__content_security_policy": "script-src 'self'; object-src 'self'",
 
 
-  "__chrome|firefox__author": "abhijithvijayan",
+  "__chrome|firefox__author": "todo",
   "__opera__developer": {
-    "name": "abhijithvijayan"
+    "name": "todo"
   },
 
   "__firefox__applications": {
