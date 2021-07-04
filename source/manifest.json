@@ -12,9 +12,6 @@
   "short_name": "select-spotify",
 
   "permissions": [
-    "activeTab",
-    "storage",
-    "http://*/*",
     "https://*/*"
   ],
 
@@ -63,8 +60,7 @@
 
   "content_scripts": [{
     "matches": [
-      "http://*/*",
-      "https://*/*"
+      "https://open.spotify.com/*"
     ],
     "js": [
       "js/contentScript.bundle.js"
