@@ -1,4 +1,5 @@
 <h1 align="center">select-spotify</h1>
+<img align="center" src="source/assets/icons/favicon-32.png">
 <p align="center">A web extension that makes song/album/playlist titles selectable on Spotify web. (open.spotify.com)</p>
 
 ## Why?
