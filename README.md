@@ -19,8 +19,9 @@ Have you ever wanted to copy a song title from Spotify to send to a friend? Me t
 
 ## Browser Support
 
-| [![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)](/) | [![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png)](/)----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------
-| 49 & later ✔ | 52 & later ✔
+[![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)](/) === 49 & later ✔
+
+[![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png)](/) === 52 & later ✔
 
 ## 🚀 Quick Start
 
