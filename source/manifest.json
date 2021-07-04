@@ -11,9 +11,7 @@
   "homepage_url": "https://github.com/kholland950/select-spotify",
   "short_name": "select-spotify",
 
-  "permissions": [
-    "https://*/*"
-  ],
+  "permissions": ["https://open.spotify.com/*"],
 
   "__dev__content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
   "__prod__content_security_policy": "script-src 'self'; object-src 'self'",
