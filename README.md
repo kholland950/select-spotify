@@ -1,6 +1,5 @@
 <h1 align="center">select-spotify</h1>
 <p align="center">A web extension that makes song/album/playlist titles selectable on Spotify web. (open.spotify.com)</p>
-<div align="center">
 
 ## Why?
 Have you ever wanted to copy a song title from Spotify to send to a friend? Me too. Maybe this friend doesn't have Spotify, or maybe you want to find the music video on YouTube. There is currently no way to select and copy a song/album title, which is especially inconvenient when trying to search for a song in a foreign language you can't speak. This small extension makes some CSS changes on Spotify (web only) to allow users to copy titles from album/playlist header and the tracklist.
