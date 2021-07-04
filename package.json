@@ -1,6 +1,6 @@
 {
   "name": "select-spotify",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A web extension that allows song/album/playlist titles to be selected in Spotift web",
   "private": true,
   "license": "MIT",
