@@ -1,7 +1,7 @@
 {
-  "name": "web-extension-starter",
-  "version": "1.0.0",
-  "description": "Web extension starter",
+  "name": "select-spotify",
+  "version": "0.0.1",
+  "description": "A web extension that allows song/album/playlist titles to be selected in Spotift web",
   "private": true,
   "license": "MIT",
   "repository": "https://github.com/kholland950/select-spotify.git",

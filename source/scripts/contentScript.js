@@ -1,5 +1,3 @@
-console.log('helloworld from content script');
-
 if (window.location.origin.includes('open.spotify.com')) {
   const css =
     '*[draggable] > [as="h1"] { user-select: all !important; }' +
