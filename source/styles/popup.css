@@ -1,0 +1,25 @@
+ul {
+  list-style: none;
+}
+
+#popup {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+}
+
+h2 {
+  text-align: center;
+}
+
+button {
+  font-family: Roboto, sans-serif;
+  padding: 1em 2em;
+  margin: 1em;
+  border-radius: 15px;
+  background-color: #43AA8B;
+  color: white;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}

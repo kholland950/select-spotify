@@ -1,12 +1,12 @@
 import browser from 'webextension-polyfill';
 
-import '../styles/popup.scss';
+import '../styles/popup.css';
 
 function openWebPage(url) {
   return browser.tabs.create({url});
 }
 
-document.addEventListener('DOMContentLoaded', async () => {
+document.addEventListener('DOMContentLoaded', () => {
   // const tabs = await browser.tabs.query({
   //   active: true,
   //   lastFocusedWindow: true,
@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   // });
 
   document.getElementById('github__button').addEventListener('click', () => {
-    return openWebPage('https://github.com/kholland950/select-spotify');
+    return openWebPage('https://github.com/kholland950/select-spotify/issues/new');
   });
 
   // document.getElementById('options__button').addEventListener('click', () => {

@@ -96,7 +96,7 @@ module.exports = {
         },
       },
       {
-        test: /\.scss$/,
+        test: /\.css$/,
         use: [
           {
             loader: MiniCssExtractPlugin.loader, // It creates a CSS file per JS file which contains CSS
@@ -123,7 +123,6 @@ module.exports = {
             },
           },
           'resolve-url-loader',
-          'sass-loader',
         ],
       },
     ],
