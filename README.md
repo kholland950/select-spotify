@@ -7,6 +7,11 @@
 ## Why?
 Have you ever wanted to copy a song title from Spotify to send to a friend? Me too. Maybe this friend doesn't have Spotify, or maybe you want to find the music video on YouTube. There is currently no way to select and copy a song/album title, which is especially inconvenient when trying to search for a song in a foreign language you can't speak. This small extension makes some CSS changes on Spotify (web only) to allow users to copy titles from album/playlist header and the tracklist.
 
+## Install
+[Install from Chrome Web Store](https://chrome.google.com/webstore/detail/select-spotify/edemfokpjcnkdplkajakabjocmhbbemj)
+
+[Install from Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/select-spotify/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
 ## Planned Features
 - Enable/Disable
 - Choose which parts of the UI are select-able
